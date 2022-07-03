@@ -1,0 +1,72 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+	color: #fff;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background: #303030FF;
+}
+
+#iphone {
+	display: block;
+	width: 366px;
+	height: 738px;
+	background: url(Iphone.png) no-repeat; /* Добавляем фон */
+	background-size: 366px 738px;
+	padding: 19px;
+}
+
+#Screen {
+	display: block;
+	text-align: right;
+	font-size: 5.5em;
+	padding-top: 140px;
+}
+
+#button {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin: 10px -10px;
+}
+
+.btn {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 35px;
+	font-weight: 500;
+
+	width: 73px;
+	height: 73px;
+	margin: 5px;
+	background-color: #F5B22DFF;
+	border-radius: 50%;
+	cursor: pointer;
+}
+
+.btn_zero {
+	padding-left: 30px;
+	width: 160px;
+	border-radius: 50px;
+	justify-content: start;
+}
+
+.btn:hover {
+	background-color: #F8C76CFF !important;
+}
+
+.btn_number:hover {
+	background-color: #777777FF !important;
+}
+
+.btn_func:hover {
+	background-color: #C4C4C4FF !important;
+}
