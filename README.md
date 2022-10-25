@@ -1,2 +1,7 @@
 # Iphone-Calculate
-Калькулятор айфона на HTML + CSS + JS
+<b>IOS Iphone Calculator<b>
+<b>Author:<b> Kulyomin
+<b>Stack:<b>
+- HTMl5
+- CSS3
+- JavaScript
