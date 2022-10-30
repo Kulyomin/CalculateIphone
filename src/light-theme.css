@@ -1,0 +1,40 @@
+/* Iphone */
+.light {
+   background-color: skyblue;
+}
+
+/* Result */
+.light {
+   color: #fff;
+}
+
+/* Button */
+.button-light {
+   background-color: skyblue;
+}
+
+.aqumarine {
+   background-color: rgb(74, 255, 195);
+   color: rgb(82, 80, 80);
+}
+
+.aqumarine:hover {
+   background-color: rgb(20, 243, 157);
+}
+
+.skyblue {
+   background-color: rgb(179, 241, 241);
+   color: rgb(119, 119, 119);
+}
+
+.skyblue:hover {
+   background-color: rgb(107, 235, 235);
+}
+
+.yellow {
+   background-color: rgb(237, 250, 62);
+   color: rgb(119, 119, 119);
+}
+.yellow:hover {
+   background-color: rgb(255, 238, 0);
+}
